@@ -4,3 +4,7 @@ Most of the material in the notebook follows the notation and structure of this 
 
 https://arxiv.org/abs/1710.06068
 
+Lecture recording here:
+
+https://www.youtube.com/watch?v=ONR_Qxwbyd4
+
